@@ -1,4 +1,1 @@
-# Test-GitHub
-Test GitHub 
-
-This is a test for gfau-SA
+Following the tutorial https://guides.github.com/activities/hello-world/
